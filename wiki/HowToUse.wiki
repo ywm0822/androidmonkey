@@ -8,7 +8,7 @@ Here's how to use the library:
 
 ==Create an android test project==
 
-An Android Test project should be created first, using Android ADT [http://developer.android.com/sdk/eclipse-adt.html]
+An Android Test project should be created first, using Android ADT [[http://developer.android.com/sdk/eclipse-adt.html]]
 
 Refer the the AndroidMonkey library (jar or project)
 
@@ -31,5 +31,3 @@ Create a normal ActivityInstrumentationTestCase2 test class, and add the followi
 
 
 Download the entire test class in the Downloads tab.
-
-
